@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aura-AI/static/css/main.674b6e23.css",
+    "main.js": "/Aura-AI/static/js/main.7eb8a935.js",
+    "static/js/453.be4e1dfd.chunk.js": "/Aura-AI/static/js/453.be4e1dfd.chunk.js",
+    "index.html": "/Aura-AI/index.html",
+    "main.674b6e23.css.map": "/Aura-AI/static/css/main.674b6e23.css.map",
+    "main.7eb8a935.js.map": "/Aura-AI/static/js/main.7eb8a935.js.map",
+    "453.be4e1dfd.chunk.js.map": "/Aura-AI/static/js/453.be4e1dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.674b6e23.css",
+    "static/js/main.7eb8a935.js"
+  ]
+}
