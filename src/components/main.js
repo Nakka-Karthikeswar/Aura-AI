@@ -7,8 +7,8 @@ function Main() {
   const [messages, setMessages] = useState([
     { 
       sender: 'bot', 
-      term: "AURA SYSTEM v2.0", 
-      text: "System initialized. Neural link active. Type 'Guide' to begin.", 
+      term: "AURA SYSTEM", 
+      text: "System initialized.Type 'Guide' to begin.", 
       mechanics: null, 
       importance: null, 
       insight: null,
