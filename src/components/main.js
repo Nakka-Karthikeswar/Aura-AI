@@ -177,7 +177,7 @@ function Main() {
       <div className="app-header">
         <div className="header-content">
             <div className={`status-dot ${isSpeaking ? 'active' : ''}`}></div>
-            AURA AI <span className="version">v2.4</span>
+            AURA AI 
         </div>
         <span className="status-text">{isSpeaking ? 'TRANSMITTING DATA...' : 'SYSTEM ONLINE'}</span>
       </div>
